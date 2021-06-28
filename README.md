@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
-I interpret user needs and implement by always considering what the user would want and using their input to design the product. Creating user stories helps us to know exactly what the users are looking for in the program and how important they think certain features are.
-How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?
-I hope to be able to incorporate the information raditor into my future development work because I think communication is key when you are working on a large project. 
-What does it mean to be a good team member in software development?
-It means collaborating and working efficiently with your team and putting the work in to help everyone succeed.
+The DriverPass project was from a company who teaches driving lessons. They wanted a website where they could sell packages and schedule appointments online.
+I think I did well with most of the diagrams and requirements. 
+I would revise my class diagram because I am not sure I did it right and I probably left some stuff out.
+I added features that the user felt that they needed, and ones that would make it easier for them to do their jobs, like being able to disable packages and see appointment times. It is important to include what the user needs, because if you don't meet their needs, no one will use the website. 
+When programming, you start big picture, and then break it down into smaller parts. This way you can see the main functionality of the project and work into the specifics of the code and features. 
